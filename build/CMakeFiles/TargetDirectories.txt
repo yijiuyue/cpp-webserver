@@ -1,3 +1,0 @@
-/home/yiyue/webserver/build/CMakeFiles/server.dir
-/home/yiyue/webserver/build/CMakeFiles/edit_cache.dir
-/home/yiyue/webserver/build/CMakeFiles/rebuild_cache.dir
